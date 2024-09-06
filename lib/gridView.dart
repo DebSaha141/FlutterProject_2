@@ -59,7 +59,7 @@ class _gridViewState extends State<gridView> {
                   builder: ((context) {
                     return AlertDialog(
                         insetPadding: const EdgeInsets.only(
-                            top: 240, bottom: 250, left: 80, right: 80),
+                            top: 240, bottom: 250, left: 65, right: 65),
                         backgroundColor:
                             const Color.fromARGB(255, 192, 167, 197),
                         content: Column(
