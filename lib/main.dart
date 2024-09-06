@@ -125,7 +125,7 @@ class _HomeState extends State<Home> {
               },
             );
           },
-          itemCount: 25,
+          itemCount: 24,
         ));
   }
 }
